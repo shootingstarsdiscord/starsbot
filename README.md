@@ -1,5 +1,5 @@
 <h2 class="code-line" data-line-start="0" data-line-end="1"><a id="Unhelpful_guide_to_starsbot_0"></a>Unhelpful guide to stars-bot</h2>
-<p class="has-line-data" data-line-start="2" data-line-end="3">Stars bot is a bot created by enigma using the cards created by seolhyunssi and gkprotectionsquad. The trading card bot functions using a currency called “COPE”. If being viewed as html, the links to discord channels may not work.</p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">Stars Bot is a bot created by Enigma using the cards created by seolhyunssi and gkprotectionsquad. The trading card bot functions using a currency called “COPE”. If being viewed as html, the links to discord channels may not work.</p>
 <h2 class="code-line" data-line-start="4" data-line-end="5"><a id="For_beginners_4"></a>For beginners</h2>
 <h4 class="code-line" data-line-start="5" data-line-end="6"><a id="Collecting_COPE_5"></a>Collecting COPE:</h4>
 <p class="has-line-data" data-line-start="6" data-line-end="7"><strong>How to see the total amount of cope owned: Use the <code>-stars bal</code> command.</strong></p>
