@@ -58,4 +58,3 @@ vi. Weekly sets reset on the -stars daily that immediately precedes Wednesday in
 <p class="has-line-data" data-line-start="54" data-line-end="55">Post season events: Enigma holds events where the droprates of higher rarity cards are increased. Usually it is at the end of the season or sometimes during festivals (Seollal/Chuseok/Christmas/NYE). It might be a good idea to start saving before such events.</p>
 </li>
 </ol>
-</body></html>
